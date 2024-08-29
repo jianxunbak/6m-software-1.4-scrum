@@ -13,7 +13,7 @@ I would first encourage the team to be tranparent in all processes, provide time
 During each sprints, all team members will participate in daily 15 minutes stand up meeings in the morning, to report on the previous day's progress, today's plans and issues faced. At the end of the sprint, we will deliver the working product increment to gather approvals or identify additional requirements and improvements from stakeholders.
 
 Following the sprint review, all team members will conduct sprint retrospective to discuss what went well, what went wrong, and what can be improve for the next sprint. This process of reflection allows for continuous imporvements and helps the team become more efficient and more responsive to change.
-
+```
 
 Scenario 2:
 Write ten (10) user stories for a book-borrowing website for a library. Write it in the format: `As a ____, I want to ____, so that _____`.
@@ -31,7 +31,7 @@ Write ten (10) user stories for a book-borrowing website for a library. Write it
 9. As a user, I want to be able to sign up more membership and edit my details, so that i can start borrowing books
 10. As a librian, I want to be able to introduce our work and ourselves, so that we can reach out to potential collaborators and sponsors
 
-````
+```
 
 ### Submission
 
@@ -48,7 +48,7 @@ Referenced the code block below from Terence.
 function printMe() {
   console.log("I am a reference example");
 }
-````
+```
 
 _Example of Referencing Online Resources_
 
